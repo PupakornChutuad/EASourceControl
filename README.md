@@ -5,3 +5,4 @@
 ## Across the star
 - Nothing here
 - Create Login UI
+- Mined more Mineral
